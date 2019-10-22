@@ -33,6 +33,7 @@ Some had great experiences:
 Some had bad experiences. The purpose of `first-timers-only` is to help everyone have an empowering and welcoming first experience as they enter the world of Open Source Software (OSS)!
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> Can&#39;t remember the project, but it felt hostile, because I didn&#39;t know the contribution rules of the project, and got remarks.</p>&mdash; Bart Verkoeijen (@bgever) <a href="https://twitter.com/bgever/status/630598265365401601">August 10, 2015</a></blockquote>
+<li><a href="https://github.com/TeohChengXuen">Teoh Cheng Xuen 2I</a></li>
 
 ### Are you an OSS Project Owner?
 
